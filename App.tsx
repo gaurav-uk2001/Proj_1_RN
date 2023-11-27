@@ -1,9 +1,9 @@
 import React from "react";
 
 import { 
-  View,
+  View, //similar to div
   Text,
-  SafeAreaView
+  SafeAreaView // to avoid notches
 } from "react-native";
 
 function App(){
