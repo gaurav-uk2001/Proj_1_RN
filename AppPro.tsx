@@ -1,4 +1,5 @@
 import React from "react";
+// completed Poject 1
 
 import {
     View,
@@ -14,7 +15,7 @@ function AppPro(): JSX.Element{
     return(
         <View style={styles.container}>
             <Text style={isDarkMode? styles.whiteText : styles.darkText}>
-                hello ji!
+                hello ji !
                 </Text>
         </View>
     )
